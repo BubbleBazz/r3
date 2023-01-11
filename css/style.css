@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+body{
+    font-family: 'Noto Sans';
+}
+
+.container{
+    max-width: 1920px;
+}
+
+.block_row_battery {
+    max-width: 100%;
+}
+
+.block_column_logo {
+    height: auto;
+    top: 50px;
+    right: 620px;
+    width:130px;
+    position: absolute;
+    }
+  
+    .block_column_text{
+        position: absolute;
+        top: 190px;
+        right: 570px;
+        color: #fff;
+        font-size: small;
+    }
+ 
+    .h1{
+        position: absolute;
+        font-size: 45px;
+        top: 176px;
+        right:355px;
+        color: #fff;
+    }
+
+    .h2{
+        position: absolute;
+        font-size: 30px;
+        font-weight: 500;
+        top: 240px;
+        right:475px;
+        color: #fff;
+    }
+ 
+    .block_web {
+        position: absolute;
+        display: inline-block;
+        top: 580px;
+        right: 580px;
+    }
+
+    .container2{
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 150px;
+    }
+
+    .h3{
+        color: #868585;
+    }
+
+    .block_column_text2 {
+        position: absolute;
+        display: inline-block;
+        width:510px;
+        height: 76px;
+        font-weight: small;
+    }
+
+    .h5{
+        display: inline-block;
+        position: absolute;
+        width: 510px;
+        top: 240px;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .block_column_text3 {
+        position: absolute;
+        display: inline-block;
+        width:510px;
+        height: 76px;
+        font-weight: small;
+        top: 330px;
+    }
+
+    .h6{
+        display: inline-block;
+        position: absolute;
+        width: 510px;
+        top: 450px;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .block_column_text4{
+        position: absolute;
+        display: inline-block;
+        width:510px;
+        height: 76px;
+        font-weight: small;
+        top: 530px;
+    }
+
+    .h7{
+        display: inline-block;
+        position: absolute;
+        width: 510px;
+        top: 690px;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .block_column_text5{
+        position: absolute;
+        display: inline-block;
+        width:510px;
+        height: 76px;
+        font-weight: small;
+        top: 730px;
+    }
+
+    .block_solar{
+        position: absolute;
+        max-width: 900px;
+        height: 495px;
+        right: -640px;
+        top: 75px;
+
+    }
